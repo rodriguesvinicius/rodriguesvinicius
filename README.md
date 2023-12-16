@@ -15,10 +15,6 @@ Bem-vindo ao meu perfil! 🚀 Sou apaixonado por desenvolvimento de software e e
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 Estatísticas
-
-[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=rodriguesvinicius&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Contato
 
 - 📧 E-mail: vinicius.tecinfo2017@gmail.com

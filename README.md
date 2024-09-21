@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil! 🚀 Sou apaixonado por desenvolvimento de software e e
 
 ## 💼 Sobre Mim
 
-- 👨‍💻 Desenvolvedor Java Sênior
+- 👨‍💻 Engenheiro de software | Itaú
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🎓 Pós-graduação Gestão e liderança em Tecnologia 
 

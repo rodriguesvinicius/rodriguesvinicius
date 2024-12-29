@@ -6,7 +6,8 @@ Bem-vindo ao meu perfil! 🚀 Sou apaixonado por desenvolvimento de software e e
 
 - 👨‍💻 Engenheiro de software | Itaú
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 🎓 Pós-graduação Gestão e liderança em Tecnologia 
+- 🎓 Pós-graduação Gestão e liderança em Tecnologia
+- 🎓 AWS Certified Developer – Associate - https://www.credly.com/badges/1a149c09-29c3-4ea1-a970-385da09a9666/public_url
 
 ## 🛠️ Tecnologias e Ferramentas
 
